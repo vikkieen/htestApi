@@ -1,0 +1,4 @@
+{
+  "test_user_register.py::Test_Register::()::test_compare": true,
+  "test_user_register.py::Test_Register::()::test_register_success": true
+}

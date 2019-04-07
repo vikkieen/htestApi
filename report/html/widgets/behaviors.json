@@ -1,0 +1,15 @@
+{
+  "total" : 13,
+  "items" : [ {
+    "uid" : "305a3b4fed53266ad019359911e11777",
+    "name" : "修改密码模块",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}

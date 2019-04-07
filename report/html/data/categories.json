@@ -1,0 +1,25 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AttributeError: 'NoneType' object has no attribute 'userId'",
+      "children" : [ {
+        "name" : "D:\\htestApi\\testcase\\user.test_user_register.Test_Register.test_compare",
+        "uid" : "e2a34b8e52bea1a5",
+        "parentUid" : "1dbd7ce8b4c044f25980c84cf8dc2eaa",
+        "status" : "failed",
+        "time" : {
+          "start" : 1554608099709,
+          "stop" : 1554608099840,
+          "duration" : 131
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1dbd7ce8b4c044f25980c84cf8dc2eaa"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

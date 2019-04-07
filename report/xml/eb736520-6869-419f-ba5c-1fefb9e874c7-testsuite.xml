@@ -1,0 +1,177 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1554608098189" stop="1554608099840">
+  <name>testcase</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1554608098189" status="passed" stop="1554608099360">
+      <name>test_login.Test_Login.test_login_success</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="6044-MainThread"/>
+        <label name="host" value="GLAAMC5P3WLR9U3"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554608099361" status="passed" stop="1554608099389">
+      <name>D:\htestApi\testcase\sys.test_sys_changePwd.Test_ChangePwd.test_changePwd_success</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="修改密码模块"/>
+        <label name="story" value="修改密码成功"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="6044-MainThread"/>
+        <label name="host" value="GLAAMC5P3WLR9U3"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554608099432" status="passed" stop="1554608099466">
+      <name>D:\htestApi\testcase\sys.test_sys_login.Test_Login.test_login_success</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="6044-MainThread"/>
+        <label name="host" value="GLAAMC5P3WLR9U3"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554608099467" status="passed" stop="1554608099501">
+      <name>D:\htestApi\testcase\sys.test_sys_login.Test_Login.test_login_fail</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="6044-MainThread"/>
+        <label name="host" value="GLAAMC5P3WLR9U3"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554608099502" status="passed" stop="1554608099518">
+      <name>D:\htestApi\testcase\sys.test_sys_login.Test_Login.test_login_fail2</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="6044-MainThread"/>
+        <label name="host" value="GLAAMC5P3WLR9U3"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554608099519" status="passed" stop="1554608099535">
+      <name>D:\htestApi\testcase\sys.test_sys_login.Test_Login.test_login_fail3</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="6044-MainThread"/>
+        <label name="host" value="GLAAMC5P3WLR9U3"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554608099536" status="passed" stop="1554608099573">
+      <name>D:\htestApi\testcase\sys.test_sys_login.Test_Login.test_login_fail4</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="6044-MainThread"/>
+        <label name="host" value="GLAAMC5P3WLR9U3"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554608099574" status="passed" stop="1554608099597">
+      <name>D:\htestApi\testcase\sys.test_sys_login.Test_Login.test_login_fail5</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="6044-MainThread"/>
+        <label name="host" value="GLAAMC5P3WLR9U3"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554608099598" status="passed" stop="1554608099619">
+      <name>D:\htestApi\testcase\user.test_user_loadUserList.Test_LoadUserList.test_loadUserList_success</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="6044-MainThread"/>
+        <label name="host" value="GLAAMC5P3WLR9U3"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554608099620" status="passed" stop="1554608099641">
+      <name>D:\htestApi\testcase\user.test_user_register.Test_LoadUserList.test_loadUserList_success</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="6044-MainThread"/>
+        <label name="host" value="GLAAMC5P3WLR9U3"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554608099642" status="passed" stop="1554608099673">
+      <name>D:\htestApi\testcase\user.test_user_register.Test_Register.test_register_success</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="6044-MainThread"/>
+        <label name="host" value="GLAAMC5P3WLR9U3"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554608099674" status="passed" stop="1554608099709">
+      <name>D:\htestApi\testcase\user.test_user_register.Test_Register.test_login</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="6044-MainThread"/>
+        <label name="host" value="GLAAMC5P3WLR9U3"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554608099709" status="failed" stop="1554608099840">
+      <name>D:\htestApi\testcase\user.test_user_register.Test_Register.test_compare</name>
+      <failure>
+        <message>AttributeError: 'NoneType' object has no attribute 'userId'</message>
+        <stack-trace>self = &lt;testcase.user.test_user_register.Test_Register object at 0x0387BF10&gt;
+
+    def test_compare(self):
+        loadUserList = Test_LoadUserList()
+        userId=loadUserList.test_loadUserList_success()
+        print('----------',userId)
+&gt;       print('----/***', self.test_login().userId)
+E       AttributeError: 'NoneType' object has no attribute 'userId'
+
+testcase\user\test_user_register.py:29: AttributeError</stack-trace>
+      </failure>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="6044-MainThread"/>
+        <label name="host" value="GLAAMC5P3WLR9U3"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

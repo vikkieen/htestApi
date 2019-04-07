@@ -1,0 +1,131 @@
+[ {
+  "uid" : "e2a34b8e52bea1a5",
+  "name" : "D:\\htestApi\\testcase\\user.test_user_register.Test_Register.test_compare",
+  "time" : {
+    "start" : 1554608099709,
+    "stop" : 1554608099840,
+    "duration" : 131
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "8260726cd848a668",
+  "name" : "D:\\htestApi\\testcase\\user.test_user_register.Test_Register.test_register_success",
+  "time" : {
+    "start" : 1554608099642,
+    "stop" : 1554608099673,
+    "duration" : 31
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5da14d62738df6ed",
+  "name" : "D:\\htestApi\\testcase\\sys.test_sys_login.Test_Login.test_login_fail3",
+  "time" : {
+    "start" : 1554608099519,
+    "stop" : 1554608099535,
+    "duration" : 16
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3148c8a3e4124284",
+  "name" : "D:\\htestApi\\testcase\\sys.test_sys_login.Test_Login.test_login_fail",
+  "time" : {
+    "start" : 1554608099467,
+    "stop" : 1554608099501,
+    "duration" : 34
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2f8a4e9680c8a1b8",
+  "name" : "D:\\htestApi\\testcase\\sys.test_sys_login.Test_Login.test_login_fail4",
+  "time" : {
+    "start" : 1554608099536,
+    "stop" : 1554608099573,
+    "duration" : 37
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cb1f9781b1104d01",
+  "name" : "D:\\htestApi\\testcase\\user.test_user_register.Test_LoadUserList.test_loadUserList_success",
+  "time" : {
+    "start" : 1554608099620,
+    "stop" : 1554608099641,
+    "duration" : 21
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ee2e6af818ab0943",
+  "name" : "D:\\htestApi\\testcase\\sys.test_sys_login.Test_Login.test_login_fail5",
+  "time" : {
+    "start" : 1554608099574,
+    "stop" : 1554608099597,
+    "duration" : 23
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "601a5a1a939b48a4",
+  "name" : "D:\\htestApi\\testcase\\sys.test_sys_login.Test_Login.test_login_fail2",
+  "time" : {
+    "start" : 1554608099502,
+    "stop" : 1554608099518,
+    "duration" : 16
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2e03dea0ff56a342",
+  "name" : "D:\\htestApi\\testcase\\user.test_user_register.Test_Register.test_login",
+  "time" : {
+    "start" : 1554608099674,
+    "stop" : 1554608099709,
+    "duration" : 35
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "57ddffaed8f67f04",
+  "name" : "D:\\htestApi\\testcase\\sys.test_sys_login.Test_Login.test_login_success",
+  "time" : {
+    "start" : 1554608099432,
+    "stop" : 1554608099466,
+    "duration" : 34
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b68851c9cbea9be",
+  "name" : "test_login.Test_Login.test_login_success",
+  "time" : {
+    "start" : 1554608098189,
+    "stop" : 1554608099360,
+    "duration" : 1171
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dfba64b7d39612f3",
+  "name" : "D:\\htestApi\\testcase\\user.test_user_loadUserList.Test_LoadUserList.test_loadUserList_success",
+  "time" : {
+    "start" : 1554608099598,
+    "stop" : 1554608099619,
+    "duration" : 21
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c6e9eb3402835eb7",
+  "name" : "D:\\htestApi\\testcase\\sys.test_sys_changePwd.Test_ChangePwd.test_changePwd_success",
+  "time" : {
+    "start" : 1554608099361,
+    "stop" : 1554608099389,
+    "duration" : 28
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,66 @@
+{
+  "uid" : "e2a34b8e52bea1a5",
+  "name" : "D:\\htestApi\\testcase\\user.test_user_register.Test_Register.test_compare",
+  "fullName" : "testcase.D:\\htestApi\\testcase\\user.test_user_register.Test_Register.test_compare",
+  "historyId" : "13da855c23e8b0bc7a372a8868353bf9",
+  "time" : {
+    "start" : 1554608099709,
+    "stop" : 1554608099840,
+    "duration" : 131
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "AttributeError: 'NoneType' object has no attribute 'userId'",
+  "statusTrace" : "self = <testcase.user.test_user_register.Test_Register object at 0x0387BF10>\n\n    def test_compare(self):\n        loadUserList = Test_LoadUserList()\n        userId=loadUserList.test_loadUserList_success()\n        print('----------',userId)\n>       print('----/***', self.test_login().userId)\nE       AttributeError: 'NoneType' object has no attribute 'userId'\n\ntestcase\\user\\test_user_register.py:29: AttributeError",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "GLAAMC5P3WLR9U3"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "6044-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "testcase"
+  }, {
+    "name" : "testClass",
+    "value" : "testcase"
+  }, {
+    "name" : "testMethod",
+    "value" : "D:\\htestApi\\testcase\\user.test_user_register.Test_Register.test_compare"
+  }, {
+    "name" : "package",
+    "value" : "testcase"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "e2a34b8e52bea1a5.json",
+  "parameterValues" : [ ]
+}

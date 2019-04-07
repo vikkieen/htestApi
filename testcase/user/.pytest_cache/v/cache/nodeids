@@ -1,0 +1,5 @@
+[
+  "test_user_register.py::Test_Register::()::test_register_success",
+  "test_user_register.py::Test_Register::()::test_login",
+  "test_user_register.py::Test_Register::()::test_compare"
+]
